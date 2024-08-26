@@ -1,0 +1,6 @@
+{
+    "name": "basic-python-container",
+    "build":{
+        "dockerfile": "Dockerfile"
+    }
+}
